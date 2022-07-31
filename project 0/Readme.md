@@ -1,7 +1,7 @@
 # Проект 0
 
 ## Оглавление
-[1. Описание проекта](https://github.com/eachitaev/IDE/tree/main/project%200/Readme.md#Описание проекта)
+[1. Описание проекта](https://github.com/eachitaev/IDE/tree/main/project%200/Readme.md#Описание-проекта)
 
 [2. Какой кейс решаем](https://github.com/eachitaev/IDE/tree/main/project%200/Readme.md#Какой-кейс-решаем?)
 
